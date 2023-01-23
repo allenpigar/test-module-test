@@ -284,7 +284,7 @@
   admin: null
   parsleyAccess: null
   dataType: "dropdown"
-  options: "headless:Headless,hybrid:Hybrid,traditional:Traditional"
+  options: "Headless:headless,Hybrid:hybrid,Traditional:traditional"
   tips: "Headless: routes return JSON, all API are on, and CORS is anywhere. Hybrid: Routes return parsley views with ?toJSON option, all APIs on, cors anywhere. Traditional: Routes return Parlsey views, API and CORS must be turned on."
 - category: "developer"
   key: "gql_cors"
