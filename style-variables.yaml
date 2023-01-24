@@ -28,14 +28,14 @@
   type: "dropdown"
   value: "underline"
   description: null
-  category: 3
+  category: 4
   options: '{"none":"None","underline":"Underline"}'
-- referenceName: "navbar-height"
-  name: "Navigation Height"
+- referenceName: "test-add-4"
+  name: "Added 4"
   sort: 1
-  type: "text"
-  value: "50px"
-  description: "The visited color for links"
+  type: "font_picker"
+  value: ""
+  description: "This is a test"
   category: 4
   options: null
 - referenceName: "navbar-default-link-color"
