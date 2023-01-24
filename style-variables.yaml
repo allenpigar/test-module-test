@@ -9,7 +9,7 @@
 - referenceName: "test-add-1"
   name: "Added 1"
   sort: 1
-  type: "test"
+  type: "text"
   value: "test"
   description: "This is a test"
   category: 4
