@@ -14,6 +14,14 @@
   description: "This is a test"
   category: 4
   options: null
+- referenceName: "test-add-2"
+  name: "Test Color"
+  sort: 1
+  type: "color"
+  value: "#f8f8f8"
+  description: "This is a test color"
+  category: 4
+  options: null
 - referenceName: "navbar-height"
   name: "Navigation Height"
   sort: 1
