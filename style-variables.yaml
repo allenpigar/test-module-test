@@ -34,7 +34,7 @@
   name: "Added 4"
   sort: 1
   type: "font_picker"
-  value: ""
+  value: '"Helvetica Neue", Helvetica, Arial, sans-serif'
   description: "This is a test"
   category: 4
   options: null
