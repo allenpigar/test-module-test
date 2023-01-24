@@ -1,0 +1,208 @@
+- referenceName: "navbar-default-bg"
+  name: "Navigation Background Color"
+  sort: 1
+  type: "color"
+  value: "#f8f8f8"
+  description: "The active color for links"
+  category: 4
+  options: null
+- referenceName: "test-add"
+  name: "Added 1"
+  sort: 1
+  type: "test"
+  value: "test"
+  description: "This is a test"
+  category: 4
+  options: null
+- referenceName: "navbar-height"
+  name: "Navigation Height"
+  sort: 1
+  type: "text"
+  value: "50px"
+  description: "The visited color for links"
+  category: 4
+  options: null
+- referenceName: "navbar-default-link-color"
+  name: "Navigation Font Color"
+  sort: 1
+  type: "color"
+  value: "#777777"
+  description: null
+  category: 4
+  options: null
+- referenceName: "nav-link-padding-left"
+  name: "Navigation Link Padding Left"
+  sort: 1
+  type: "text"
+  value: "30px"
+  description: null
+  category: 4
+  options: null
+- referenceName: "nav-link-padding"
+  name: "Navigation Link Padding"
+  sort: 1
+  type: "text"
+  value: "10px 15px"
+  description: null
+  category: 4
+  options: null
+- referenceName: "navbar-default-link-hover-color"
+  name: "Navigation Hover Font Color"
+  sort: 1
+  type: "color"
+  value: "#333333"
+  description: null
+  category: 4
+  options: null
+- referenceName: "navbar-default-link-hover-bg"
+  name: "Navigation Hover Background Color"
+  sort: 1
+  type: "color"
+  value: "rgba(255,255,255,0)"
+  description: "NULL"
+  category: 4
+  options: null
+- referenceName: "link-color"
+  name: "Link Color"
+  sort: 1
+  type: "color"
+  value: "#4eabed"
+  description: null
+  category: 3
+  options: null
+- referenceName: "link-hover-color"
+  name: "Link Hover Color"
+  sort: 1
+  type: "color"
+  value: "#297ac2"
+  description: null
+  category: 3
+  options: null
+- referenceName: "link-hover-decoration"
+  name: "Link Hover Decoration"
+  sort: 1
+  type: "dropdown"
+  value: "underline"
+  description: null
+  category: 3
+  options: '{"none":"None","underline":"Underline"}'
+- referenceName: "font-family-base"
+  name: "Main Body Font"
+  sort: 1
+  type: "font_picker"
+  value: '"Helvetica Neue", Helvetica, Arial, sans-serif'
+  description: null
+  category: 2
+  options: null
+- referenceName: "text-color"
+  name: "Default Text Color"
+  sort: 1
+  type: "color"
+  value: "#333333"
+  description: "NULL"
+  category: 2
+  options: null
+- referenceName: "font-size-base"
+  name: "Default Font Size"
+  sort: 1
+  type: "text"
+  value: "14px"
+  description: "NULL"
+  category: 2
+  options: null
+- referenceName: "btn-default-color"
+  name: "Button Font Color"
+  sort: 1
+  type: "color"
+  value: "#333"
+  description: null
+  category: 6
+  options: null
+- referenceName: "btn-border-radius-base"
+  name: "Button Border Radius"
+  sort: 1
+  type: "text"
+  value: "4px"
+  description: null
+  category: 6
+  options: null
+- referenceName: "btn-default-bg"
+  name: "Button Background Color"
+  sort: 1
+  type: "color"
+  value: "#ffffff"
+  description: "NULL"
+  category: 6
+  options: null
+- referenceName: "container-large-desktop"
+  name: "Container Max Width"
+  sort: 1
+  type: "text"
+  value: "1160px"
+  description: null
+  category: 1
+  options: null
+- referenceName: "grid-gutter-width"
+  name: "Grid Gutter Width"
+  sort: 1
+  type: "dropdown"
+  value: "2%"
+  description: "NULL"
+  category: 8
+  options: '{"0px":"No gutter","1%":"1%","10%":"10%","12%":"12%","14%":"14%","16%":"16%","18%":"18%","2%":"2%","20%":"20%","3%":"3%","4%":"4%","5%":"5%","6%":"6%","7%":"7%","8%":"8%","9%":"9%"}'
+- referenceName: "sidebar-bg-color"
+  name: "Sidebar Background Color"
+  sort: 1
+  type: "color"
+  value: "#e3e3e3"
+  description: "The font for all h1-h3 tags on the site"
+  category: 5
+  options: null
+- referenceName: "sidebar-font-color"
+  name: "Sidebar Font Color"
+  sort: 1
+  type: "color"
+  value: "#333333"
+  description: "The color for links throughout the site"
+  category: 5
+  options: null
+- referenceName: "nav-bg-color"
+  name: "Navigation Background Color"
+  sort: 1
+  type: "color"
+  value: "rgba(255,255,255,0)"
+  description: "The active color for links"
+  category: 4
+  options: null
+- referenceName: "nav-height"
+  name: "Navigation Height"
+  sort: 1
+  type: "text"
+  value: "46px"
+  description: "The visited color for links"
+  category: 4
+  options: null
+- referenceName: "nav-font"
+  name: "Navigation Font"
+  sort: 1
+  type: "font_picker"
+  value: "'Varela'"
+  description: null
+  category: 4
+  options: null
+- referenceName: "nav-font-color"
+  name: "Navigation Font Color"
+  sort: 1
+  type: "color"
+  value: "#e3e3e3"
+  description: null
+  category: 4
+  options: null
+- referenceName: "nav-font-size"
+  name: "Navigation Font Size"
+  sort: 1
+  type: "text"
+  value: "15px"
+  description: null
+  category: 4
+  options: null
